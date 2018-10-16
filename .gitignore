@@ -54,6 +54,20 @@ venv/*
 *.csv
 */*.csv
 *.json
+*.xls
+*.xlsx
+*.cpg
+*.zip
+*.prj
+*.dbf
+*.prj
+*.xml
+*.shp
+*.shx
+*.tsv
+*.pdf
+*.png
+
 
 # Jupyter Notebooks
 *.ipynb_checkpoints
